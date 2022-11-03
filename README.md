@@ -7,4 +7,5 @@ Ao final da fase 3 do 1° ano, nos foi proposto um CHALLENGE AGROTECH; a criaç�
 - Este site foi direcionado para o pequeno e grande produtor que deseja se aprofundar nos mais diversos assuntos do agro. A Agro Solution, disponibilizará cursos gratuitos além de projetos diversos, como mulher no agro, jovem aprendiz e muitos outros. Todos envolvendo a tecnologia e com maior acessibilidade, podendo ser acessado pelo computador ou celular, e com cursos nas modalidades ead e presencial. 
 
 
-![img](file:///C:/Users/Ayla/Pictures/print.png)
+![print](https://user-images.githubusercontent.com/84017026/199791266-b4eedbf8-42e2-4934-a4be-da02438b23c2.png)
+
