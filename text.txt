@@ -1,0 +1,86 @@
+Agro Solution
+
+- sobre nós, artigos/projetos, cursos, trabalhe conosco, contato, 
+
+1- menu. 
+2- projetos e temas de projetos, como mulheres no agro, empreendedorismo e financeiro...etc
+
+nav - é usado para criar uma barra de navegação que fica na parte superior da página. Eles vem com suporte integrado para um punhado de sub-componentes.são responsivos por padrão. 
+
+Por  padrão ela é criada <nav class="navbar navbar-default">
+navbar-default é uma barra de navegação padrão(cinza). navbar-inverse é uma barra preta. 
+navbar-right é uma classe usada para alinhar à direita os botões da barra de navegação. 
+
+container = o container centraliza o conteúdo deixando espaços nas laterais. Container-fluid = faz com que o  conteúdo ocupe a tela toda do computador. 
+
+navbar-brand = adicionar um link ou um elemento do cabeçalho dentro do navbar para representar uma logo ou uma header.
+
+.collapse navbar-collapse = para agrupar e esconder conteúdos navbar, de acordo com o breakpoint do pai. 
+
+navbar-toggler = estiliza o botão que irá abrir a barra de navegação em telas menores. 
+
+data-* = usualmente permite armazenar informações extras em elementos html padrões e semânticos, sem a necessidade de hacks cmo classlist. 
+data-toggle = é um atributo que lida  o elemento ao tipo correspondente. 
+data-target = faz referência ao  seu algo, objetivo
+
+collapse= classe que indica um elemento recolhível, o conteúdo que será mostrável ou ocultado com um clique de um botão. 
+
+data-bs-target="#navbarCollapse" = #id"" = conecta o botão ao conteúdo recolhível. 
+
+aria-controls = identifica  elemento cujo conteúdo ou presença são controlados pelo elemento no qual este está definido. 
+
+atributos aria são dicas informativas sobre o estado do documento. 
+
+aria-expanded = é definido em um elemento para indicar se um controle é expandido ou recolhido e se seus elementos filho são exibidos ou ocultos. "false" = é quando ele está visível. 
+
+navbar-nav = para obter uma leve navegação com suporte a dropdowns. 
+
+ml = margin-left => margin-start = ms
+margin-end = me.
+
+xs (<=576px), sm (>=576px), md (>=768px), lg (>=992px) ou xl (>=1200px))
+
+
+ms-auto = início 
+me-auto = fim
+
+m - define a margem
+
+p - define o preenchimento
+
+t - define o topo da margem ou o topo do preenchimento
+
+b - define o fundo da margem ou o fundo do preenchimento
+
+l - define margin-left ou padding-left
+
+r - define margin-right ou padding-right
+
+x - define o preenchimento à esquerda e o preenchimento à direita ou a margem esquerda e a margem direita
+
+y - define o preenchimento superior e o preenchimento inferior ou a margem superior e a margem inferior
+
+blank - define uma margem ou preenchimento em todos os 4 lados do elemento
+
+
+0 - define a margem ou preenchimento para 0 
+
+1 - define a margem ou preenchimento para .25rem (4px se o tamanho da fonte for 16px)
+
+2 - define a margem ou preenchimento para .5rem (8px se o tamanho da fonte for 16px)
+
+3 - define a margem ou preenchimento para 1rem (16px se o tamanho da fonte for 16px)
+
+4 - define a margem ou preenchimento para 1,5 rem (24px se o tamanho da fonte for 16px)
+
+5 - define a margem ou preenchimento para 3rem (48px se o tamanho da fonte for 16px)
+
+auto - define a margem para auto
+
+
+
+
+
+
+
+
